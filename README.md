@@ -1,7 +1,7 @@
 # Django
 
 This repository is about some of the django apps I made will learning about django
-They include
+<p>They include: </p>
 
 <ul>
 <li>Blogpost App</li>
